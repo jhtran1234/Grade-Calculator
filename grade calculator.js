@@ -1,3 +1,3 @@
-document.getElementById("mybutton").onclick = function() {
-    alert('hello');
+document.getElementById('calculate').onclick = function() {
+    alert(document.getElementById('p1').value);
 }
